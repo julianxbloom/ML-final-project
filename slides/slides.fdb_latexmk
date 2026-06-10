@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1781100534.33199 "/Users/julianoehler/Documents/GitHub/ML-final-project/slides/slides.tex" "slides.pdf" "slides" 1781100534.87174 0
-  "/Users/julianoehler/Documents/GitHub/ML-final-project/slides/slides.tex" 1781100534.15136 831 751f52a0a60f4ccc82cbb828677b87e3 ""
+["pdflatex"] 1781102039.26483 "/Users/julianoehler/Documents/GitHub/ML-final-project/slides/slides.tex" "slides.pdf" "slides" 1781102039.91913 0
+  "/Users/julianoehler/Documents/GitHub/ML-final-project/slides/slides.tex" 1781102039.10976 1520 ac9474576205d09597ae1c11646927b3 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
@@ -169,10 +169,11 @@
   "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1779282447 5573038 ad3e0d8c63dbec7957113a2386d66888 ""
   "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1779282549 3651048 909fd8f366de20a7df1eeaf17fa7717c ""
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
-  "slides.aux" 1781100534.83705 1368 2588b20e8b6f3ee57ff6f386ed046aec "pdflatex"
-  "slides.nav" 1781100534.83768 777 8200145041bbd3636577518af29ea6a0 "pdflatex"
-  "slides.out" 1781100534.83754 161 a13d324444c712ac131d37ff38972344 "pdflatex"
-  "slides.tex" 1781100534.15136 831 751f52a0a60f4ccc82cbb828677b87e3 ""
+  "img/vibration_scatter.png" 1781101826.01767 173272 205064957d757617b4446bc84278973d ""
+  "slides.aux" 1781102039.88185 1631 ed261e69e398a8450cc08ff5ce355a6b "pdflatex"
+  "slides.nav" 1781102039.88249 963 844b518717fe1fa6e3a91debf74fbc11 "pdflatex"
+  "slides.out" 1781102039.88235 186 54e50639ae119196c3bef186ed6b5acf "pdflatex"
+  "slides.tex" 1781102039.10976 1520 ac9474576205d09597ae1c11646927b3 ""
   (generated)
   "slides.aux"
   "slides.log"

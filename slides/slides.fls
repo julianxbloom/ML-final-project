@@ -330,6 +330,11 @@ INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./img/vibration_scatter.png
+INPUT ./img/vibration_scatter.png
+INPUT ./img/vibration_scatter.png
+INPUT ./img/vibration_scatter.png
+INPUT ./img/vibration_scatter.png
 OUTPUT slides.nav
 OUTPUT slides.toc
 OUTPUT slides.snm
