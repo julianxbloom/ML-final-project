@@ -30,7 +30,7 @@
     \begin{frame}
         \frametitle{Initial Exploratory Insights}
         \begin{itemize}
-            \item Machine failures only occur in a small proportion of the data.
+            \item Machine failures only occur in a small proportion of the data (13.4\%).
             \item Features regarding machine age, operating hours, vibration measures and prior failures are the most
             impactful on failure.
         \end{itemize}
@@ -49,7 +49,72 @@
     \section{Modeling}
 
     \begin{frame}
-        \frametitle{}
+        \frametitle{Constant Predictor as a Baseline}
+        \begin{itemize}
+            \item The baseline always predicts majority class, i.e., non-failure of the machine.
+            \item High accuracy observed (0.84), but not representative because of class imbalance.
+            \item Balanced accuracy of 0.5 was observed, indicating no ability to distinguish failures from non-failures.
+            \item PR-AUC of 0.1 observed
+        \end{itemize}
+    \end{frame}
+
+    \begin{frame}
+        \frametitle{Five base models considered}
+        \begin{itemize}
+                    \item Gaussian Naive Bayes
+                    \item Linear discriminant analysis
+                    \item K-Nearest Neighbors
+                    \item Gradient Boosting
+                    \item Logistic regression
+        \end{itemize}
+    \end{frame}
+
+    \begin{frame}
+        \frametitle{K-Nearest Neighbors}
+        TODO
+    \end{frame}
+
+    \begin{frame}
+        \frametitle{Gradient Boosting}
+        \begin{itemize}
+            \item Appeared to be a good fit for the problem, despite a low interpretability.
+            \item PR-AUC of 0.3 observed, 3x the baseline performance.
+        \end{itemize}
+    \end{frame}
+
+    \begin{frame}
+        \frametitle{Logistic Regression}
+        TODO
+    \end{frame}
+
+
+    \section{Policy and Evaluation}
+
+    \begin{frame}
+        \frametitle{A Preventive Policy}
+        \begin{itemize}
+            \item TODO
+        \end{itemize}
+    \end{frame}
+
+    \begin{frame}
+        \frametitle{Choice of final model}
+        TODO
+    \end{frame}
+    
+    \begin{frame}
+        \frametitle{Final Evaluation Results}
+        TODO
+    \end{frame}
+
+    \begin{frame}
+        \frametitle{Limitations and what the model misses}
+        \begin{itemize}
+            \item The model is limited by the absence of information regarding the costs 
+                of failure and maintenance of machines.
+            \item The missed failures look like healthy machines: characteristics 
+            close to healthy machines, and with no previous failure over the last year.
+        \end{itemize}
     \end{frame}
 
 \end{document}

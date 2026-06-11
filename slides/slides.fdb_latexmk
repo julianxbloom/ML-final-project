@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1781102039.26483 "/Users/julianoehler/Documents/GitHub/ML-final-project/slides/slides.tex" "slides.pdf" "slides" 1781102039.91913 0
-  "/Users/julianoehler/Documents/GitHub/ML-final-project/slides/slides.tex" 1781102039.10976 1520 ac9474576205d09597ae1c11646927b3 ""
+["pdflatex"] 1781218227.16752 "/Users/julianoehler/Documents/GitHub/ML-final-project/slides/slides.tex" "slides.pdf" "slides" 1781218228.20601 0
+  "/Users/julianoehler/Documents/GitHub/ML-final-project/slides/slides.tex" 1781218226.99564 3626 b5280f959a9786c98b5b9a24c4830d76 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
@@ -170,10 +170,10 @@
   "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1779282549 3651048 909fd8f366de20a7df1eeaf17fa7717c ""
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
   "img/vibration_scatter.png" 1781101826.01767 173272 205064957d757617b4446bc84278973d ""
-  "slides.aux" 1781102039.88185 1631 ed261e69e398a8450cc08ff5ce355a6b "pdflatex"
-  "slides.nav" 1781102039.88249 963 844b518717fe1fa6e3a91debf74fbc11 "pdflatex"
-  "slides.out" 1781102039.88235 186 54e50639ae119196c3bef186ed6b5acf "pdflatex"
-  "slides.tex" 1781102039.10976 1520 ac9474576205d09597ae1c11646927b3 ""
+  "slides.aux" 1781218228.16872 2952 0c8fa33137d1a027503d126a31024bd7 "pdflatex"
+  "slides.nav" 1781218228.16944 1865 827f8c3e7915bd680576520870866b87 "pdflatex"
+  "slides.out" 1781218228.16929 340 29ff3bb7fb35a40b8057db4e8030ab5a "pdflatex"
+  "slides.tex" 1781218226.99564 3626 b5280f959a9786c98b5b9a24c4830d76 ""
   (generated)
   "slides.aux"
   "slides.log"

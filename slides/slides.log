@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.20)  10 JUN 2026 16:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.20)  12 JUN 2026 00:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -682,7 +682,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 ] [3
 
 ]
-<img/vibration_scatter.png, id=152, 433.62pt x 289.08pt>
+<img/vibration_scatter.png, id=237, 433.62pt x 289.08pt>
 File: img/vibration_scatter.png Graphic file (type png)
 <use img/vibration_scatter.png>
 Package pdftex.def Info: img/vibration_scatter.png  used on input line 47.
@@ -690,6 +690,22 @@ Package pdftex.def Info: img/vibration_scatter.png  used on input line 47.
  [4
 
  <./img/vibration_scatter.png>] [5
+
+] [6
+
+] [7
+
+] [8
+
+] [9
+
+] [10
+
+] [11
+
+] [12
+
+] [13
 
 ]
 \tf@nav=\write6
@@ -707,21 +723,21 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2026-04-28>
  ***********
 Package rerunfilecheck Info: File `slides.out' has not changed.
-(rerunfilecheck)             Checksum: 54E50639AE119196C3BEF186ED6B5ACF;186.
+(rerunfilecheck)             Checksum: 29FF3BB7FB35A40B8057DB4E8030AB5A;340.
  ) 
 Here is how much of TeX's memory you used:
- 21582 strings out of 467341
- 418152 string characters out of 5415369
- 811791 words of memory out of 5000000
- 50243 multiletter control sequences out of 15000+600000
+ 21619 strings out of 467341
+ 418470 string characters out of 5415369
+ 816792 words of memory out of 5000000
+ 50263 multiletter control sequences out of 15000+600000
  629533 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,19n,123p,486b,757s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on slides.pdf (5 pages, 173730 bytes).
+Output written on slides.pdf (13 pages, 196843 bytes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
- 182 compressed objects within 2 object streams
- 13 named destinations out of 1000 (max. 500000)
- 70 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 794 PDF objects out of 1000 (max. 8388607)
+ 548 compressed objects within 6 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 78 words of extra memory for PDF output out of 10000 (max. 10000000)
 
